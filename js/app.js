@@ -30,8 +30,7 @@ PI il valore di 3.1416. Sai dire cosa succede? */
 //Stampa il valore della variabile circle in console.
 
 const radius = 8; //number
-const Moltiplica = (radius * 2)* PI; //number
-const circle = Moltiplica;//number
+const circle = (radius * 2)* PI; //number
 
 console.log(circle);
 
